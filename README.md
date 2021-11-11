@@ -33,6 +33,24 @@
 * ?~? - 공지사항
 * ?~? - 뱃지획득 시스템
 
+## 백엔드 개발 내용
+
+<details>
+<summary>11월 3일~ 오늘</summary>
+
+### Implements
+
+- 회원가입 accessToken, refreshToken
+- 사용자 로그인
+- 회원 정보 수정
+- 관리자 로그인
+- 각 요청 route마다 권한 설정
+- 관리자 api (작가/기업 신청, 승인 및 반려)
+- aws s3 bucket에 이미지 업로드
+- 작가 작품 등록
+- 작가 작품 읽기
+- 
+
 
 
 ### Language
